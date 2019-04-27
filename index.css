@@ -1,0 +1,35 @@
+body{
+    background: white;
+}
+
+.navbar{
+  width:100%;
+  border-bottom: 1px solid gray;
+}
+.nav{
+   
+   font-size: 1.15em;
+   font-family: 'Roboto', sans-serif;
+   padding: 1%;
+ 
+}
+
+.heading{
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    margin: 1% 10%;
+}
+.text{
+    font-size: 1em;
+    font-family: 'Merriweather', serif;
+    margin: 0% 10%;
+}
+.photos{
+    width: 70vw;
+    margin: 2% 15%;
+
+}
+footer{
+    background: black;
+    color: white;
+}
