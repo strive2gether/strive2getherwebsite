@@ -4,17 +4,20 @@ body{
 
 
 .navbar{
-  width:auto;
-  overflow: hidden;
+  
+  
   border-bottom: 1px solid black;
 }
 
 .nav{
-   
    font-size: 1.5em;
    font-family: 'Roboto', sans-serif;
    padding: 1%;
- 
+}
+@media only screen and (max-width: 600px){
+    .nav{
+        font-size: 1em;
+    }
 }
 a:link {
      color:black; 
