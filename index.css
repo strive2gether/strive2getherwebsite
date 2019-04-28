@@ -4,9 +4,10 @@ body{
 
 
 .navbar{
-  width:100%;
+  width:auto;
   border-bottom: 1px solid black;
 }
+
 .nav{
    
    font-size: 1.5em;
