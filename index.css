@@ -14,13 +14,22 @@ body{
    padding: 1%;
  
 }
-a:link{
-    color: black;
-}
-a:hover{
-    color: rgb(248, 165, 10);
-}
-
+a:link {
+     color:black; 
+     text-decoration: none; 
+    }
+a:visited {
+     color:orange; 
+     text-decoration: none; 
+    }
+a:hover {
+     color: orange;
+     text-decoration: none; 
+    }
+a:active { 
+    color:gray; 
+    text-decoration: underline;
+ }
 hr {
     color: rgb(248, 165, 10);
     background: rgb(248, 165, 10);
