@@ -5,6 +5,7 @@ body{
 
 .navbar{
   width:auto;
+  overflow: hidden;
   border-bottom: 1px solid black;
 }
 
