@@ -5,11 +5,11 @@ body{
 
 .navbar{
   width:100%;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid black;
 }
 .nav{
    
-   font-size: 1.15em;
+   font-size: 1.25em;
    font-family: 'Roboto', sans-serif;
    padding: 1%;
  
