@@ -98,6 +98,10 @@ h2{
     font-size: 2em;
     color: black;
 }
+
+.awards{
+    margin-bottom: 4em;
+}
 #footer{
     display:block;
     background: black;
