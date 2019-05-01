@@ -4,15 +4,23 @@ body{
 
 
 .navbar{
-  
-  
   border-bottom: 1px solid black;
+ 
+}
+
+@media only screen and (max-width: 600px){
+.logo{
+    position: relative;
+    width: 80px;
+    height: auto;
+}
 }
 
 .nav{
    font-size: 1.5em;
    font-family: 'Roboto', sans-serif;
    padding: 1%;
+  
 }
 @media only screen and (max-width: 600px){
     .nav{
@@ -78,8 +86,9 @@ h2{
     text-align:center;
     padding-top: 3%;
 }
-#icon{
+.icon{
     text-align:center;
+ 
 }
 
 .fab .far{
@@ -92,7 +101,7 @@ h2{
 }
 .quote{
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin: 2% 30%;
     font-family: 'Merriweather', serif;
 }
